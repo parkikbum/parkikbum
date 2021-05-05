@@ -3,10 +3,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ikk.swift/)](https://www.instagram.com/ikk.swift) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://ikkk.tistory.com/)](https://ikkk.tistory.com/)
 
-
-## Work experience 🤹‍♀️
+## Academic experience 🤹‍♀️
+- (18.03 - ) Dongguk University CSE
 - (21.03 - ) SOPT 28th iOS Part
 
+
+## Work experience 🤹‍♀️
+- (21.04 - ) proj.Awesome(어떰) iOS Developer
 
 ## Interest 👀
 - iOS Develop
