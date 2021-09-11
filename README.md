@@ -7,11 +7,6 @@
 - (18.03 - ) Dongguk University CSE
 - (21.03 - 21.07) SOPT 28th iOS Part
 
-
-## Work experience 🤹‍♀️
-- (21.04 - ) proj.Awesome(어떰) iOS Developer
-- SOPT 28th AppJam [Charo] iOS Developer
-- 
 ## Interest 👀
 - iOS Develop
 - swift
