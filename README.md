@@ -10,7 +10,6 @@
 ## Interest 👀
 - iOS Develop
 - swift
-- Client
 
 ## Algorithm to the moon👀
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pibum)](https://solved.ac/pibum/)
