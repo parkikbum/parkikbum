@@ -6,7 +6,7 @@
 ## Academic experience 🤹‍♀️
 - (18.03 - ) Dongguk University CSE
 - (21.03 - 21.07) SOPT 28th iOS Part
-
+- (21.09 - )      SOPT 29th iOS Part
 ## Interest 👀
 - iOS Develop
 - swift
