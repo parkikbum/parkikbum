@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkikbum&show_icons=true&theme=radical)
 [![parkikbum's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=parkikbum&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/parkikbum)
 
-## tech
+## 💻Tech
 ![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
